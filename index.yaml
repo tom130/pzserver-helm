@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pzserver:
+  - apiVersion: v2
+    appVersion: pz
+    created: "2024-01-24T21:46:51.346897547Z"
+    description: Project Zomboid based on Linuxgsm docker image
+    digest: 2b8a50c06b0a2c35a90a991a7d1c399f9e67dd2417edbd4d567572c88c9e2b78
+    name: pzserver
+    type: application
+    urls:
+    - https://github.com/tom130/pzserver-helm/releases/download/pzserver-0.1.3/pzserver-0.1.3.tgz
+    version: 0.1.3
+generated: "2024-01-24T21:46:51.346903428Z"
